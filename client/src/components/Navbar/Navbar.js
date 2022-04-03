@@ -33,7 +33,7 @@ import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 import { CardGiftcardTwoTone } from "@material-ui/icons";
 import { ShoppingBagOutlined } from "@mui/icons-material";
 //import Stripe from "../../components/Stripe/Stripe.js";
-const navigationLinks = [{ name: "home", to: "/" }];
+const navigationLinks = [{ name: "All The Rage", to: "/" }];
 
 const useStyles = makeStyles({
   navBg: {

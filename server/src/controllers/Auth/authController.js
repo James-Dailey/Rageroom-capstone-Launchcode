@@ -27,7 +27,7 @@ class Auth {
       console.log(data, "dddddaaata");
       res.status(201).json({
         status: "success",
-        message: "signup successfully!",
+        message: "signup successful!",
       });
     } catch (error) {
       console.log(error);
@@ -48,7 +48,7 @@ class Auth {
         res.status(200).json({
           status: "success",
           data: { accessToken, user },
-          message: "login Successfully!",
+          message: "login Successful!",
         });
       } else {
         return res.status(403).json({

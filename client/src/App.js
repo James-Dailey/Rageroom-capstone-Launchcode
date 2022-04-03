@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import Router from "./routes/index";
 import defaultTheme from "./themes/defaultTheme";
 import { ToastContainer, Slide } from "react-toastify";

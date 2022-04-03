@@ -18,7 +18,7 @@ export default function AppRoutes() {
   const items = [
     {
       img: cartoon1,
-      title:"Beginner Package: 1 hour, M-Th",
+      title:"Mildly Annoyed Package: 1 hour, M-Th",
       price:"$200.00"
     },
     {
@@ -33,13 +33,13 @@ export default function AppRoutes() {
     },
     {
       img: cartoon4,
-      title:"The Full Anger Management Package 2.5 Hours, Fri-Sat",
+      title:"Anger Management Package 2.5 Hours, Fri-Sat",
       price:"$450.00"
     },
     {
       img: cartoon5,
       title:"Custom Package, call for details",
-      price:""
+      price:"$0.00"
     },
     {
       img: cartoon6,
